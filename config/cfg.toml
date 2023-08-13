@@ -1,0 +1,6 @@
+[settings]
+prefix = "!" #command prefix 
+
+
+[settings.rps]
+allowed_channel  = 0 #Channel id that rps commands can be used. Commands used in other channels will be ignored.
